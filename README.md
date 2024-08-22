@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Here are some ideas to get you started:
+My skills:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git)](https://skillicons.dev)
 
 - 🔭 I’m currently working on ...
