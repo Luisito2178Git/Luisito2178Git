@@ -6,3 +6,4 @@
 <br/>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luisito2178Git&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Luisito2178Git&theme=github_dark)
